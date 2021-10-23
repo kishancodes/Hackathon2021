@@ -4,3 +4,10 @@ I used MySQL on my end to demonstrate the RDBMS module to store relational table
 I did not create any tables as I had no time left and same goes around for some frames,
 that were incomplete, had to just be used as is. So, please feel free to use it as
 you all want.
+
+Used JRE J Connector from MySQL.
+
+Please change the password and the portnumber in the components package, according to
+the one set in your device.
+
+Chur.
