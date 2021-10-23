@@ -25,4 +25,8 @@ to the version of MySQL and the OS that you use.
 Look at the manual for futhur help:
 https://dev.mysql.com/doc/connector-j/8.0/en/
 
+
+The users can compile and create a standalone executable in Netbeans. 
+Other IDEs like Intelli J or Eclipse don't provide the executable option.
+If i'm wrong about executables, please lmk how to do the same on other IDEs.
 Chur.
