@@ -1,13 +1,28 @@
 Here lies the files that I created during the UMSL Hackathon held from OCT 15-18.
+
+We had to create a substance abuse reducation solution but I ended up creating something
+else.
+
+I created a centralized healthcare solution. LMAO.
+
+This contains 3 app classess: for patient, doctor and the insurance company.
+It utilizes a centralized relational database system with restrictions per app class.
 I created the files in JAVA and used swing library to impose jFrame environment.
 I used MySQL on my end to demonstrate the RDBMS module to store relational tables.
-I did not create any tables as I had no time left and same goes around for some frames,
-that were incomplete, had to just be used as is. So, please feel free to use it as
-you all want.
+I did not create any tables, except for login windows, as I had no time left and 
+same goes around for some frames, that were incomplete, had to just be used as is. 
+So, please feel free to use it as you all want.
 
-Used JRE J Connector from MySQL.
+Used JRE J Connector from MySQL. Please attach it in the Libraries pacakge from
+wherever you installed/stored it in your device.
 
 Please change the password and the portnumber in the components package, according to
-the one set in your device.
+the one set in your device for MySQL.
+
+There will be different header files for the Connection and the Statement files according
+to the version of MySQL and the OS that you use. 
+
+Look at the manual for futhur help:
+https://dev.mysql.com/doc/connector-j/8.0/en/
 
 Chur.
