@@ -29,4 +29,10 @@ https://dev.mysql.com/doc/connector-j/8.0/en/
 The users can compile and create a standalone executable in Netbeans. 
 Other IDEs like Intelli J or Eclipse don't provide the executable option.
 If i'm wrong about executables, please lmk how to do the same on other IDEs.
+
+Also checkout my friend's repo about the same thing except there is another
+project of filtering misinformation articles via flask on python. Check it
+ou as it is also really cool. Here is the link below if you want to take a peek at it.
+https://github.com/JLance7/Hackathon-Automate-It
+
 Chur.
