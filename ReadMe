@@ -3,7 +3,7 @@ Here lies the files that I created during the UMSL Hackathon held from OCT 15-18
 We had to create a substance abuse reduction solution but I ended up creating something
 else.
 
-I created a centralized healthcare solution. LMAO.
+I created a centralized healthcare solution.
 
 This contains 3 app classess: for patient, doctor and the insurance company.
 It utilizes a centralized relational database system with restrictions per app class.
