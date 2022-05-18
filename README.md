@@ -2,7 +2,7 @@
 Created a centralized medical system apps for:
 
 - Insurance Companies
-- Hospitals
+- Doctors
 - Patients
 
 Used Java Swing for GUI.
