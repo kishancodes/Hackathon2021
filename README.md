@@ -8,7 +8,7 @@ Created a centralized medical system apps for:
 Used Java Swing for GUI.
 
 Configurators please change the link port and password to your local mysql
-instance in the components directory per app directory for the JDBC connection.
+instance in the *app*/src/components directory per app directory for the JDBC connection.
 
 - A lot of frames and tables are incomplete to be linked with each other.
 - Login works for all the apps.
